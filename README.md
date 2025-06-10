@@ -42,5 +42,6 @@ Encrypting PDFs adds a layer of security for sensitive reports or personal files
 Do not use this tool on unauthorized files. This project is for educational and personal use only.
 
 
-👨‍💻 Author
-Atharva Dendge — Cybersecurity Student | Python Enthusiast
+##👨‍💻 Author
+
+### Atharva Dendge — Cybersecurity Student | Python Enthusiast
