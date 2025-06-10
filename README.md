@@ -25,3 +25,10 @@ A simple Python-based Command-Line tool to **lock** (encrypt) and **unlock** (de
 
 ```In PowerShell 
 pip install pikepdf
+```
+
+### Run Tool by:
+
+```
+python PDF Lock & Unlock.py
+```
