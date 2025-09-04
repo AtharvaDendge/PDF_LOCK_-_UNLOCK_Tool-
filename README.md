@@ -21,6 +21,10 @@ A simple Python-based Command-Line tool to **lock** (encrypt) and **unlock** (de
 
 ## 🚀 How to Use
 
+## Requirements
+- Python 3.x
+- pikepdf library
+
 ### Install Dependencies:
 
 ```In PowerShell 
